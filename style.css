@@ -1,0 +1,42 @@
+body {
+    background-color: beige;
+    font-family:'Inter Tight', sans-serif;;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color:bisque;
+    height: 85px;
+    padding: 0 10%;
+    align-items: center;
+}
+
+.nav-bar {
+    color: black;
+    font-weight:bolder;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    color: black;
+}
+
+div {
+    color:brown;
+    font-style:initial;
+    font-weight:500;
+}
+
+.h1-footer {
+    color:rgb(92, 58, 6);
+}
+
+.bttn {
+    color: black;background-color: aliceblue;
+}
